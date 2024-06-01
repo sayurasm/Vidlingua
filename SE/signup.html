@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="signup.css">
+    <script defer src="signup.js"></script>
+</head>
+<body>
+   <div class="signup-container">
+        <div class="signup-box">
+            <h1>Let's go!</h1>
+            <form action="signin.html" class="form">
+                <div class="information">
+                    <input type="text" placeholder="Username" id="username" required>
+                    <input type="password" placeholder="Password" id="password" required>
+                    <input type="password" placeholder="Confirm Password" id="confirmpassword" required>  
+                    <input type="date" placeholder="Date of Birth" id="dob" required>  
+                </div>
+                <div class="gender-agree">
+                    <div class="gender">
+                        <input type="radio" name="gender" id="male">
+                        <label for="male"> Male</label>
+                        <input type="radio" name="gender" id="female">
+                        <label for="female"> Female</label>
+                    </div>
+                    <div class="agreement">
+                        <input type="checkbox" name="agreement" id="agreement">
+                        <label for="agreement"> I accept the terms and conditions</label>
+                    </div>
+                </div>
+                <button type="button" onclick="checkInput()" class="registered">Sign Up</button>
+            </form> 
+        </div>
+   </div>
+</body>
+</html>
