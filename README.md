@@ -1,5 +1,6 @@
 # Vidlingua
 a tool for translating and transcribing videos using AUTOMATIC1111 Stable Diffusion with WAV2LIP Extension and OpenAI Whisper.
+Voice Cloning using elevenlabs API and facebook research for voice to voice "seamless_communication" translation.
 
 ## Overview
 
