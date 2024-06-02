@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from dubbing_utils import download_dubbed_file, wait_for_dubbing_completion
 from elevenlabs.client import ElevenLabs
 
-ELEVENLABS_API_KEY="6ef1fe622691d92866c99f54b91f01e9"
+ELEVENLABS_API_KEY="API_KEY"
 
 client = ElevenLabs(api_key=ELEVENLABS_API_KEY,)
 
@@ -33,7 +33,7 @@ def create_dub_from_url(source_url: str,source_language: str,target_language: st
 
 
 if __name__ == "__main__":
-    source_url = "https://youtube.com/shorts/xOkVLAzTIMI?si=q-Al2kkwtlGdfP-U"
+    source_url = "YT_SOURCE"
     source_language = "en"
     target_language = "ja"
     result = create_dub_from_url(source_url, source_language, target_language)
