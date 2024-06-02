@@ -6,7 +6,7 @@ a tool for translating and transcribing videos using AUTOMATIC1111 Stable Diffus
 <img src ="docs\intro.png">
 
 ## Approach
-Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+Whisper is a general purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
 
 <img src="docs\approach.png">
 
