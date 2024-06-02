@@ -8,7 +8,7 @@ from elevenlabs.client import ElevenLabs
 load_dotenv()
 
 # Retrieve the API key
-ELEVENLABS_API_KEY = "6ef1fe622691d92866c99f54b91f01e9"
+ELEVENLABS_API_KEY = "API_KEY"
 if not ELEVENLABS_API_KEY:
     raise ValueError(
         "ELEVENLABS_API_KEY environment variable not found. "
