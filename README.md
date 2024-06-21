@@ -55,3 +55,5 @@ Weights (place in checkpoints folder):
     https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/Eb3LEzbfuKlJiR600lQWRxgBIY27JZg80f7V9jtMfbNDaQ?e=TBFBVW
     https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW
 
+### Final Result
+[<img src ="docs\finalresult.mp4">](https://github.com/sayurasm/Vidlingua/assets/98831909/0eeed163-302f-41c3-81e9-e2612691832b)
