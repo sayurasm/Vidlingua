@@ -20,6 +20,7 @@ A Transformer sequence-to-sequence model is trained on various speech processing
 ### Using Facebook Research's "Seamless Communication" that is based on OpenAI Whisper for transcribe and translate to another language.
 check the original repo here [facebookseamless](https://github.com/facebookresearch/seamless_communication)
 and went to the collab using public url and went to gradio [Demo](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_expressive_v2_colab.ipynb)
+![whisper](https://github.com/sayurasm/Vidlingua/assets/98831909/4920f553-3a3d-4617-a2f1-e757e36c83b3)
 
 ### Using ElevenLabs API for translating a uploaded video to another language
 Get the API here [ElevenLabs](https://elevenlabs.io/app/dubbing)
