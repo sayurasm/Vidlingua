@@ -4,7 +4,7 @@ Voice Cloning using elevenlabs API and facebook research for voice to voice "sea
 
 ## Overview
 
-<img src ="docs\intro.png">
+<img src ="docs\intro.jpg">
 
 ## Approach
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
