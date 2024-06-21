@@ -26,6 +26,7 @@ Get the API here [ElevenLabs](https://elevenlabs.io/app/dubbing)
 note: you have to create a profile first and went to "profile+API key"
 
 ### Run it locally 
+in the "Vidlingua API" folder
 Check the dubdub.py and dubbing_utils.py
 insert the elevenlabs API
 ```bash
